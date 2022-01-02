@@ -1,3 +1,3 @@
-# Simple Starter
+# Genuary 2022.2
 
-Simple JS build starter for simple, client-only demos.
+3D sphere blob dithering
